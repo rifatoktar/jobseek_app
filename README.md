@@ -1,5 +1,11 @@
 # jobby
 
+Jobseek App UI Design with Flutter and Figma
+
+You can observe to predesign process in Figma
+
+![jobby](https://user-images.githubusercontent.com/105917287/205996328-7ad3a7ff-0051-4ce5-8789-0e8cd296fc09.PNG)
+
 A new Flutter project.
 
 ## Getting Started
